@@ -6,8 +6,6 @@
 ![alt text](screenshots/image2.png)
 ![alt text](screenshots/image3.png)
 
-## Description
-    🎲 Fully functioning dice rolling simulator with sfx and minimal design.
 
 
 
